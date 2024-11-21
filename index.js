@@ -8,7 +8,7 @@ let botConnected = false; // Bot bağlantı durumu
 // Bot yapılandırma ayarları
 const config = {
   botAccount: {
-    username: "MujluOralet",
+    username: "ToastWizard",
     password: "fake3",
     type: "legacy"
   },
@@ -28,7 +28,7 @@ const config = {
         { text: "/register fake3 fake3", delay: 15 },        
         { text: "/is accept EymanBey", delay: 15 },
         { text: "/skyblock", delay: 5 },
-        { text: "/is go MujluOralet", delay: 15 }
+        { text: "/is go AdanaDurum", delay: 15 }
       ]
     },
     antiAfk: {
