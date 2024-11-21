@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 1000;
+const port = process.env.PORT || 3000;
 
 let botConnected = false; // Bot bağlantı durumu
 
